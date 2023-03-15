@@ -64,6 +64,12 @@ class TBuffer{
                 console.log(this);
             }
         }
-        setRand(){return this}
+        setRand(){
+            
+            
+            return this
+        
+        }
+
         }
         
